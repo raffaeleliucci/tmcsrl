@@ -10,7 +10,7 @@ import {
 const initialJobs = [
   { train:'ETR 500-112', type:'Manutenzione Carrelli', status:'Completato', start:'10/10/2023', due:'02/10/2023', operator:'A. Rossi', team:'Squadra A' },
   { train:'FRECCIAROSSA-45', type:'Controllo Freni', status:'In Corso', start:'10/10/2023', due:'02/10/2023', operator:'M. Bianchi', team:'Squadra B' },
-  { train:'REGIO-230', type:'Sostituzione Ruote', status:'In Pianificazione', start:'10/10/2023', due:'02/10/2023', operator:'G. Russo', team:'Squadra C' },
+  { train:'REGIOca-230', type:'Sostituzione Ruote', status:'In Pianificazione', start:'10/10/2023', due:'02/10/2023', operator:'G. Russo', team:'Squadra C' },
   { train:'ALn 668-310', type:'Revisione Motore', status:'In Corso', start:'10/10/2023', due:'22/10/2023', operator:'A. Rossi', team:'Squadra A' },
   { train:'TAF-14', type:'Verifica Impianto Elettrico', status:'Completato', start:'13/10/2023', due:'24/10/2023', operator:'M. Bianchi', team:'Squadra B' },
   { train:'ETR 500-118', type:'Controllo porte', status:'In Attesa', start:'16/10/2023', due:'28/10/2023', operator:'L. Esposito', team:'Squadra C' },
